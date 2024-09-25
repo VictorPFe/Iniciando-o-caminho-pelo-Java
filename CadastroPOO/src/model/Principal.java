@@ -2,8 +2,8 @@ package model;
 
 import java.util.Scanner;
 
-/*@autor: axeMay (Maiara Machado)
-*/
+/*@autor: Victor Pessoa
+ */
 
 public class Principal {
     public static void main(String[] args) throws Exception {
